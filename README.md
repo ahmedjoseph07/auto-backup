@@ -22,7 +22,7 @@ This script automates the process of backing up files that have been modified in
 1. Clone the repository to your local system:
 
     ```bash
-    git clone https://github.com/your-username/auto-backup.git
+    git clone https://github.com/ahmedjoseph07/auto-backup.git
     ```
 
 2. Navigate to the project directory:
